@@ -1,9 +1,10 @@
 # User Directory
 
-## Spring Boot + JPA + MySQL + Thymeleaf + JUnit (Test Driven Development)
+## Spring Boot + JPA + MySQL + Thymeleaf (Template Engine) + JUnit (Test Driven Development)
 
 The project is about inserting, deleting, updating and selecting users from the directory. 
-
+This project is made with using Spring Boot, Data JPA, Thymeleaf (Template Engine). 
+Test Driven Development was implemented with JUnit5
 
 ### Interface of User Directory
 
@@ -13,8 +14,13 @@ The project is about inserting, deleting, updating and selecting users from the 
  
 When the user wants to update the person who exists on the list will be placed in the box after clicking on the update button.
 
-![alt text](./Insert.png)  ![alt text](./Update.png)
- 
+![alt text](./Insert.png) ![alt text](./Update.png)
+
+
+### Deleting User
+
+When the user clicks on the update button, the pop-up window will have appeared on the top and the user will be asked whether sure to delete the person on the list.
+
 
 ![alt text](./Delete.png)
 
@@ -44,7 +50,7 @@ Passed : 3     Failed : 0
 
 
 
-This project was done by Fuat Kara
+This project was done by Fuat Kara (BalamiRR).
 
 
 # ~THE END ~
