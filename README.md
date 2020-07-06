@@ -1,10 +1,10 @@
 # User Directory
 
-## Spring Boot + JPA + MySQL + Thymeleaf (Template Engine) + JUnit (Test Driven Development)
+## Spring Boot + JPA + MySQL + Thymeleaf (Template Engine) + JUnit
 
 The project is about inserting, deleting, updating and selecting users from the directory. 
 This project is made with using Spring Boot, Data JPA, Thymeleaf (Template Engine). 
-Test Driven Development was implemented with JUnit5
+Testing was implemented with JUnit5
 
 ### Interface of User Directory
 
@@ -26,9 +26,9 @@ When the user clicks on the update button, the pop-up window will have appeared 
 
 
 
-## Test Driven Development
+## Testing
 
-In this project, Test Driven Development was implemented for @Service Layer and @Controller.
+In this project, Testingwas implemented for @Service Layer and @Controller.
 
 @Controller :
 
