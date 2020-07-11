@@ -12,9 +12,11 @@ Testing was implemented with JUnit5
  
 ### Inserting and Updating User
  
+![alt text](./Insert.png) 
+
 When the user wants to update the person who exists on the list will be placed in the box after clicking on the update button.
 
-![alt text](./Insert.png) ![alt text](./Update.png)
+![alt text](./Update.png)
 
 
 ### Deleting User
