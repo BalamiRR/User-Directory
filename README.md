@@ -37,7 +37,7 @@ In this project, Testingwas implemented for @Service Layer and @Controller.
 Totally, 6 methods were constituted for @Controller. Those methods are about the testing the @Get, @Delete, @Post and @Put annotations to check whether returning HTTP: 200 or HTTP: 404 errors etc.
 
 Passed : 6     Failed : 0
-
+ 
  ![alt text](./Controller.png)
 
 
