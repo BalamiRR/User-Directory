@@ -8,7 +8,7 @@ Testing was implemented with JUnit5.
 
 ### Interface of User Directory
 
-![alt text](./EmployeeDirectory.png)
+![alt text](./EmployeeDirectory.png) 
  
 ### Inserting and Updating User
   
