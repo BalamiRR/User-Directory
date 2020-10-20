@@ -7,7 +7,7 @@ This project is made with using Spring Boot, Data JPA, Thymeleaf (Template Engin
 Testing was implemented with JUnit5. 
 
 ### Interface of User Directory
-
+ 
 ![alt text](./EmployeeDirectory.png) 
   
 ### Inserting and Updating User
