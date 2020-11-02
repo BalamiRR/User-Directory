@@ -1,5 +1,5 @@
 # User Directory
-  
+   
 ## Spring Boot + JPA + MySQL + Thymeleaf (Template Engine) + JUnit5 
   
 The project is about inserting, deleting, updating and selecting users from the directory. 
