@@ -10,7 +10,7 @@ Testing was implemented with JUnit5.
  
 ![alt text](./EmployeeDirectory.png) 
   
-### Inserting and Updating User
+### Inserting and Updating User 
   
 ![alt text](./Insert.png) 
 
