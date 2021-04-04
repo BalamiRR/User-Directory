@@ -4,7 +4,7 @@
  
 The project is about inserting, deleting, updating and selecting users from the directory.
 This project is made with using Spring Boot, Data JPA, Thymeleaf (Template Engine).
-Testing was implemented with JUnit5.   
+Testing was implemented with JUnit5.  
 
 ### Interface of User Directory
  
