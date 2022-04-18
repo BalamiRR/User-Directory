@@ -51,8 +51,6 @@ Passed : 3     Failed : 0
 
 
 
-
-This project was done by Fuat Kara (BalamiRR). 
  
 
 # ~THE END ~
